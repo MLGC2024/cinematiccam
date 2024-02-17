@@ -14,7 +14,7 @@ Cfg.useButton = true
 -- specify, if menu should be accessible via chat command
 Cfg.useCommand = true
 -- specify chat command string
-Cfg.command = "cam"
+Cfg.command = "film"
 
 -- specify, if this camera should be permission based
 Cfg.usePermissions = false
